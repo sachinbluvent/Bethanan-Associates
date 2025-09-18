@@ -218,7 +218,7 @@ function setupEventListeners() {
         }
         
         // Close mobile menu when clicking on links
-        const mobileLinks = mobileMenu.querySelectorAll('.navbar-mobile-link, .navbar-mobile-cta');
+        const mobileLinks = mobileMenu.querySelectorAll('.navbar-mobile-link');
         
         mobileLinks.forEach(link => {
             link.addEventListener('click', () => {
