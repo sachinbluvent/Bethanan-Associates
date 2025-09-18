@@ -1,7 +1,5 @@
 # Bethanan Associates Engineers & Builders
 
-![Bethanan Associates Logo](https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=1200&h=300&fit=crop)
-
 ## 🏗️ Overview
 
 Bethanan Associates Engineers & Builders is a premium construction company website showcasing 35+ years of engineering excellence in Coimbatore, Tamil Nadu. This professional website represents a leading construction firm specializing in residential, commercial, and industrial projects.
